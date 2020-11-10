@@ -1,2 +1,2 @@
-export {StandardResponse} from "./StandardResponse";
+export {StandardResponse, StandardResponseWithData, Jsonizable} from "./StandardResponse";
 export {StandardError} from "./StandardError";
