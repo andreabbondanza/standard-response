@@ -1,6 +1,6 @@
 {
   "name": "standard-response",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "description": "Typescript standard response type for rest requests",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -26,9 +26,5 @@
   "bugs": {
     "url": "https://github.com/andreabbondanza/standard-response/issues"
   },
-  "homepage": "https://github.com/andreabbondanza/standard-response#readme",
-  "dependencies": {
-    "rollup": "^2.33.1",
-    "rollup-plugin-ts": "^1.3.7"
-  }
+  "homepage": "https://github.com/andreabbondanza/standard-response#readme"
 }
