@@ -1,0 +1,26 @@
+{
+  "name": "standard-response",
+  "version": "1.0.0",
+  "description": "Typescript standard response type for rest requests",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreabbondanza/standard-response.git"
+  },
+  "keywords": [
+    "standard-response",
+    "rest",
+    "restful",
+    "typescript",
+    "response"
+  ],
+  "author": "Andrea Vincenzo Abbondanza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreabbondanza/standard-response/issues"
+  },
+  "homepage": "https://github.com/andreabbondanza/standard-response#readme"
+}
